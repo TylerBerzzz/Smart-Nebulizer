@@ -5,8 +5,9 @@ AiroCare is a smart standalone device that expands the abilities of medical equi
   <img src="./nebulizer.jpeg"/ width='400' height='250'>
 </p>
 
-Cornell Health Hackathon February 2023. Grand Prize winner
-[Pitch](https://www.youtube.com/watch?v=eKUt7VFKirw) 
+ **Grand Prize winner** at Cornell Health Hackathon February 2023.
+[Pitch](https://www.youtube.com/watch?v=eKUt7VFKirw) ;
+
 [Youtube video](https://www.youtube.com/watch?v=ASEi8pnSnYM)
 
 
