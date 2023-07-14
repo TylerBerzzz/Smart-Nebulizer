@@ -1,8 +1,14 @@
 # AiroCare - smart nebulizer
 AiroCare is a smart standalone device that expands the abilities of medical equipment to capture and analize asthma activity.
 
+<p align="center">
+  <img src="./nebulizer.jpeg"/>
+</p>
+
 Cornell Health Hackathon February 2023. Grand Prize winner
+[Pitch](https://www.youtube.com/watch?v=eKUt7VFKirw) 
 [Youtube video](https://www.youtube.com/watch?v=ASEi8pnSnYM)
+
 
 
 ## Resources
